@@ -7,20 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ex6MathsScan" />
-        <module name="ex8Random" />
         <module name="ex1Hello" />
+        <module name="ex8Random" />
+        <module name="ex2LeapYear" />
         <module name="ex4Average" />
         <module name="ex5Username" />
         <module name="ex3Maths" />
+        <module name="ex7Seconds" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ex1Hello" target="1.8" />
-      <module name="ex3Maths" target="1.8" />
-      <module name="ex4Average" target="1.8" />
-      <module name="ex5Username" target="1.8" />
-      <module name="ex6MathsScan" target="1.8" />
-      <module name="ex8Random" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

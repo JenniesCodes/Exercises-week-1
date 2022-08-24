@@ -3,12 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercises-week-1.iml" filepath="$PROJECT_DIR$/.idea/Exercises-week-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex1Hello/ex1Hello.iml" filepath="$PROJECT_DIR$/ex1Hello/ex1Hello.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex3Maths/ex3Maths.iml" filepath="$PROJECT_DIR$/ex3Maths/ex3Maths.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex4Average/ex4Average.iml" filepath="$PROJECT_DIR$/ex4Average/ex4Average.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex5Username/ex5Username.iml" filepath="$PROJECT_DIR$/ex5Username/ex5Username.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex6MathsScan/ex6MathsScan.iml" filepath="$PROJECT_DIR$/ex6MathsScan/ex6MathsScan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ex8Random/ex8Random.iml" filepath="$PROJECT_DIR$/ex8Random/ex8Random.iml" />
     </modules>
   </component>
 </project>
